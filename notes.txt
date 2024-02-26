@@ -1,0 +1,12 @@
+
+Semantic Search (non-lexical search)
+
+RAG
+
+Recommender System
+
+Hybrid Search
+
+Facial Similarity Search
+
+Anomaly Detection
